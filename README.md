@@ -3,7 +3,7 @@
 ![Code Quality Score](https://www.code-inspector.com/project/27485/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/27485/status/svg)
 ![Code Quality](https://www.code-inspector.com/project/27485/status/svg)
-[![CI](https://github.com/ranveer17/Stepin_Arambh/actions/workflows/main.yml/badge.svg)](https://github.com/ranveer17/Stepin_Arambh/actions/workflows/main.yml)
+[![Cpp check](https://github.com/ranveer17/Stepin_Arambh/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ranveer17/Stepin_Arambh/actions/workflows/cppcheck.yml)
 
 
 
