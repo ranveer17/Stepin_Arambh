@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Tour_Planner
+PROJECT_NAME = Tour Planning System
 
 # Output directory
 BUILD = build
