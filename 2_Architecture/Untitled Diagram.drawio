@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T11:09:05.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="XWFpqAdTpS2RdBtic-Ye" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T11:10:39.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="esluSPK3kTwptgBtFEOi" version="15.0.6" type="github">
   <diagram id="o79PtzUjfggAHvfddpBF" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -28,11 +28,19 @@
         <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-8" value="Choice 1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="430" y="10" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-10" value="Login System" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" edge="1" parent="1" source="XO-SGRxmhx0Tcxkr1Sh6-10" target="XO-SGRxmhx0Tcxkr1Sh6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-10" value="Tour Planning System" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-11" value="Switch Case(user input)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="120" height="80" as="geometry" />
+        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-28" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" edge="1" parent="1" source="XO-SGRxmhx0Tcxkr1Sh6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-11" value="Tour Planning" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.317;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" edge="1" parent="1" source="XO-SGRxmhx0Tcxkr1Sh6-11" target="XO-SGRxmhx0Tcxkr1Sh6-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,6 +110,9 @@
             <mxPoint x="180" y="220" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XO-SGRxmhx0Tcxkr1Sh6-29" value="Login System" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
